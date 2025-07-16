@@ -55,13 +55,13 @@ a:-webkit-any-link {
 
 /* === HOMETOWN TEXT === */
 #hometown {
-    color: #4d4d4d; /* 🎨 Hometown text color */
+    color: #51677a; /* 🎨 Hometown text color */
     margin-bottom: 10px;
 }
 
 /* === EMAIL SECTION === */
 #email {
-    color: #1a1a1a;
+    color:#51677a;
     margin-bottom: 15px;
 }
 
